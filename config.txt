@@ -1,2 +1,2 @@
-filter = '&q=id:edi.400+id:edi.398+id:edi.1137+id:edi.399+id:edi.405+id:edi.1137+id:edi.225+id:edi.230+id:edi.713+id:edi.700'
-limit = 20
+filter = '&q=id:edi.400+id:edi.1137+id:edi.230+id:edi.713+id:edi.700+id:edi.398+id:edi.1137+id:edi.399+id:edi.405+id:edi.225'
+limit = 5
