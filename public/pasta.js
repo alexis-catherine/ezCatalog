@@ -5,7 +5,7 @@
 var PASTA_CONFIG = {
    "server": "https://pasta.lternet.edu/package/search/eml?", // PASTA server
    "filter": '&q=id:edi.400+id:edi.1137+id:edi.230+id:edi.713+id:edi.700+id:edi.398+id:edi.1137+id:edi.399+id:edi.405+id:edi.225', // Filter results on a unique keyword of a research group
-   "limit": 5, // Max number of results to retrieve per page
+   "limit": 10, // Max number of results to retrieve per page
    "resultsElementId": "searchResults", // Element to contain results
    "urlElementId": "searchUrl", // Element to display search URL. Use "searchUrl" to display or "" to remove FIXME: Empty string does not turn off.
    "countElementId": "resultCount", // Element showing number of results
